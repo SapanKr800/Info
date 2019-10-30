@@ -1,0 +1,294 @@
+
+@media only screen  and (max-width: 1024px) and (min-width: 770px)  {
+   
+  .row{
+    padding: 10px;
+  
+  } 
+.card h3{
+      
+   font-size: 25px;
+  
+}
+.about-me br {
+  display: none;
+}
+
+.face{
+font-size: 30px;
+  }
+
+.link{
+font-size: 30px;
+
+}
+
+.git{
+
+font-size: 30px;
+
+}
+
+.gmail{
+
+  margin-bottom: 80px;
+
+
+} 
+
+
+
+.card1 {
+font-size: 15px;
+padding: 30px;
+padding-bottom: 500px;
+
+
+}
+.webcontent h5{
+  margin-top: -10px;
+}
+.grid-container {
+
+  grid-template-columns: auto ;
+  margin-top: -10px;
+}
+.responsive{
+  margin-top: -30px;
+  padding: 10px;
+  padding-bottom: -10px;
+}
+
+
+
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .row {
+        padding: 10px;
+    }
+    .card {
+        padding-bottom: 100px;
+    }
+    .card h3 {
+        font-size: 22px;
+    }
+    .face {
+        font-size: 30px;
+    }
+    .link {
+        font-size: 30px;
+    }
+    .git {
+        font-size: 30px;
+    }
+    .card1 {
+     
+      padding: 25px;
+      padding-bottom: 500px;
+      
+      
+        
+    }
+    .heading {
+        margin-top: -20px;
+    }
+    .card1 h5 {
+        font-size: 18px;
+    }
+    .menu {
+        margin-top: -10%;
+    }
+    .menu div {
+        width: 35px;
+        height: 4px;
+    }
+    .about-me {
+        font-size: 15px;
+    }
+    .about-me br {
+        display: none;
+    }
+    .grid-container {
+        grid-template-columns: auto;
+        padding: 10px;
+        font-size: 15px;
+        margin-top: -5px;
+    }
+    .webcontent h5{
+      margin-top: -10px;
+
+    }
+    .responsive {
+        margin-top: -30px;
+    }
+    
+  }
+
+
+
+  @media only screen and (max-width: 760px)and (min-width: 426px)  {
+
+   
+    .card img{
+      
+      width: 40%;
+      height: 40%;
+      margin-top: 5%;
+      
+     
+  }
+  .heading{
+    display: none;
+  }
+  .head{
+  display: block;
+  font-size: 18px;
+  padding: 10px;
+  margin-top: 10px;
+  }
+  .card h3{
+      font-size: 30px; 
+      margin-top: 25px;  
+
+  }
+     
+        
+  .card h6{
+    margin-top: 25px;
+     
+
+  }
+  .card h6 span{
+    padding: 2% 11% 2% 11%;
+  }       
+      
+        
+  
+  
+  .face{
+    font-size: 35px;
+    margin-top: 25px;
+      
+      
+  
+     
+  }
+  
+  .link{
+    font-size: 35px;
+    margin-left: 8%;
+  
+   
+   
+    
+  }
+  
+  .git{
+    
+    font-size: 35px;
+    margin-left: 8%;
+  
+    
+     
+  }
+  .gmail{ 
+    
+  
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.gmail span{
+    
+      
+        padding: 2% 15% 2% 15%;
+      
+      }
+.card1{
+ 
+  padding: 30px;
+  padding-bottom: 500px;
+  
+  
+}
+ 
+.technicalskill{
+  
+   
+    margin-bottom: 40px;
+    
+}
+
+  }
+  @media only screen and (max-width: 425px)and (min-width: 375px)  {
+
+
+    .heading{
+      display: none;
+    }
+    .head{
+    display: block;
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 10px;
+    }
+     .card1{
+      padding-bottom: 600px;
+     }
+     .card1 h5{
+       margin-top: 40px;
+       font-weight: bold;
+     }
+     .menu{
+       margin-top: -60px;
+     }
+
+     .webcontent h5{
+       margin-top: -10px;
+       font-weight: bold;
+     }
+     .responsive{
+       margin-top: -30px;
+     }
+     .technicalskill{
+       margin-top: -30px;
+     }
+     
+
+
+  }
+  @media only screen and (max-width: 374px)and (min-width: 320px)  {
+  
+    .container-fluid{
+      padding: 10px;
+    }
+    .card1{
+      padding: 15px;
+      padding-bottom: 620px;
+    }
+    .heading{
+      display: none;
+      
+    }
+    .head{
+    display: block;
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 10px;
+    }
+  }
+
+
+
+  @media only screen and (max-width: 319px)and (min-width: 1px)  {
+  *{
+    display: none;
+
+  }
+  }
+   
+
+   
