@@ -141,7 +141,7 @@
 
 .menu {
     float: right;
-    margin-top: -7%;
+
 }
 
 .menu div {
@@ -174,3 +174,22 @@
     font-size: 16px;
 }
 
+.project{
+    text-align: center;
+    background-color: rgb(217, 217, 223);
+    padding: 50px;
+    border-radius: 20px;
+    border-left: 5px solid rgb(240, 239, 239);
+}
+.project-news:hover{
+background-color: rgb(186, 187, 187);
+
+}
+.project a{
+    text-decoration: none;
+    color: black;
+}
+.project2{
+    margin-top: -30px;
+}
+  
