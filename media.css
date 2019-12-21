@@ -99,9 +99,7 @@ padding-bottom: 500px;
     .card1 h5 {
         font-size: 18px;
     }
-    .menu {
-        margin-top: -10%;
-    }
+    
     .menu div {
         width: 35px;
         height: 4px;
@@ -126,6 +124,9 @@ padding-bottom: 500px;
         margin-top: -30px;
     }
     
+    .project{
+      border-top:5px solid rgb(240, 239, 239);
+    }
   }
 
 
@@ -242,9 +243,7 @@ padding-bottom: 500px;
        margin-top: 40px;
        font-weight: bold;
      }
-     .menu{
-       margin-top: -60px;
-     }
+     
 
      .webcontent h5{
        margin-top: -10px;
