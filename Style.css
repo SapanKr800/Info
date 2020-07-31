@@ -19,6 +19,7 @@
     transition: 0.3s;
     border-radius: 15px;
     background-color: rgb(236, 236, 238);
+    
 }
 
 .card:hover {
@@ -30,6 +31,7 @@
     width: 60%;
     height: 60%;
     margin-top: 7%;
+    margin-left: 20%;
 }
 
 .card h3 {
