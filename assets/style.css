@@ -1,0 +1,38 @@
+/* CSS for the project */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: IBM Plex Mono, sans-serif;
+            
+        }
+
+        .borderColor {
+
+            border: 10px solid #292f37;
+            border-radius: 50%
+        }
+
+        .badge:hover {
+            cursor: pointer;
+            background-color: #292f37 !important;
+        }
+
+
+        .Project {
+            overflow: hidden;
+        }
+
+        .Project img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            transition: .3s ease-in-out;
+        }
+
+        .Project:hover img {
+            -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+
+        }
+    
